@@ -1,0 +1,9 @@
+
+---
+
+## ✅ `requirements.txt`
+
+```txt
+pathway>=0.6.2
+bokeh>=3.3.0
+pandas>=2.1.0
